@@ -5,12 +5,19 @@ Weird Scientists are masters of forgotten Amazonian, Atlantean and Hyperborean l
 The tinkerer is at heart a scavenger of parts.
 
 **Attribute Requirements:** Dexterity 12, Intelligence 12
+
 **Prime Attributes:** Dexterity, Intelligence
+
 **Hit Die Type:** d6
+
 **Alignment:** Any
+
 **Armor Allowed:** Light
+
 **Shields Allowed:** Small
+
 **Favored Weapons:** Any
+
 **Saving Throw Modifiers:** Device +2, Avoidance +2
 
 **Class Abilities:**
