@@ -86,6 +86,9 @@ reputation have been established, the weird scientist also will attract 1d2 appr
 who will petition him for learning.
 
 **Progressive Thief Abilities:**
+
 *detect secret doors*
+
 *manipulate traps*
+
 *open locks*
