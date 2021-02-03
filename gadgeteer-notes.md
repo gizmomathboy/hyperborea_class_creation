@@ -49,6 +49,22 @@ tongue of the Anunnaki, a mysterious race predating all known humans of Hyperbor
 *Read Weird Science:* The ability to decipher unintelligible weird science inscriptions or symbols placed on weapons, 
 armor, items, doors, walls, scrolls and other media.
 
+*Artefact Identification:* Ability to figure out artefacts.
+
+Per the Referee's discretion on the die to use based on the complexity and mystery of the artefact. A successful roll for each stage is required to progress to the next stage. Stage one might be skipped if there is a "normal" analogu, e.g. radium pistol vs crossbow, laser spear vs spear, etc.
+
+Stage success is a base 1-4 on the complexity die plus 1 per level of experience (GA : Gadgeteer Ability?)
+
+Regardless of success, 1d4 Constitution is used and regained at 1 point per hour or rest. If Constitution drops to 3 or less than the Gadgeteer is knocked unconscious for 24 hours.
+
+  1) do you have any idea this is?  
+  
+  2) can you power it up?
+  
+  3) can you activate it? 
+  
+  4) can you use effecitvely?
+
 *Laboratory:* At 9th level, a weird scientist who establishes a suitable laboratory will attract a 
 band of followers: 1d12+12 weird science devotees of 0th level (1d4 hp, each with a smattering of nascent 
 weird science abilities) who will serve without pay in exchange for tutelage under their master. The laboratory 
