@@ -1,0 +1,62 @@
+**Weird Scientist**
+Weird Scientists are masters of forgotten Amazonian, Atlantean and Hyperborean lore, lost technologies, and new weird inventions of their own devising. While most folks fear such things, Weird Scientists are fascinated by such lost lore. Weird Scientists may use any weapons, but typically favor lost artifacts or their own creations. They may wear any mundane armor up to studded leather, unless it is of lost tech, in which case they may wear any armor type of lost Amazonia, Atlantis or Hyperborea.
+
+Attribute Requirements: Dexterity 12, Intelligence 12
+Prime Attributes: Dexterity, Intelligence
+Hit Die Type: d6
+Alignment: Any
+Armor Allowed: Light
+Shields Allowed: Small
+Favored Weapons: Any
+Saving Throw Modifiers: Device +2, Avoidance +2
+
+Class Abilities:
+
+Folklore like the bard but restricted to artefacts and old tech, for lack of a better description
+
+Item use: some mechanic to better use items like laser swords, radium pistols, amazon skyships, and 
+other things that are more tech than "magic" in nature.
+
+Item repair: mechanize to fix a broken item, or magic otherwise get it working. That scope on the laser 
+rifle that just jammed? Maybe a chance to fix it, or that same rifle ran out of charges they can get an 
+additional charge or two.
+
+Read Languages: can learn/decipher ancient languages, assuming there is a manual about to read
+
+* magician's alchemy
+* detect secret doors as thief types
+* thief's manipulate traps
+* thief's open locks
+* create incendiary oil
+* make mechanical/metal based automatons
+Clandestine Tongue (Weird Science): The obscure language of pseudo-scientists, a strange tongue in which some 
+words may be unintelligible to an ignorant listener, whereas others might be common yet of alternative meaning. 
+This scientifically opaque tongue is used in conjunction with arcane mathematical formulae. Some call this the 
+tongue of the Anunnaki, a mysterious race predating all known humans of Hyperborea.
+
+Weird Science Item Use: Can utilize magic items normally restricted to Magicians, but only if of a weird science origin.
+
+Read Weird Science: The ability to decipher unintelligible weird science inscriptions or symbols placed on weapons, 
+armor, items, doors, walls, scrolls and other media.
+
+
+Laboratory: At 9th level, a weird scientist who establishes a suitable laboratory will attract a 
+band of followers: 1d12+12 weird science devotees of 0th level (1d4 hp, each with a smattering of nascent 
+weird science abilities) who will serve without pay in exchange for tutelage under their master. The laboratory 
+might be in a city, town, or village. If said laboratory is part of his castle or fortified manor, with a 
+5- to 10-mile radius of control, the weird scientist also becomes eligible to attract a small body of men-at-arms, 
+0th-level fighters of 1d8 hp each.
+
+Here follows a typical troop:
+10 shortbowmen (studded armour, short bows, short swords)
+10 light crossbowmen (chain mail, small shields, light crossbows, long spears, short swords)
+10 halberdiers / pikemen (splint armour, halberds or pikes, hand axes)
+
+Attracted units include one officer, a 2nd-level fighter responsible for the unit and for communication 
+betwixt the weird scientist and his men. If the reputation of the weird scientist is favourable, further troops 
+may be attracted. Men-at-arms receive 10 gp per month for their service, plus 50 gp for the officer. Common 
+inhabitants of the weird scientist’s domain will provide 5 sp in taxes per person per month. Once control and 
+reputation have been established, the weird scientist also will attract 1d2 apprentice weird scientists (0th-level),
+who will petition him for learning.
+
+The tinkerer is at heart a scavenger of parts.
