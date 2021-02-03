@@ -27,8 +27,10 @@ additional charge or two.
 *Read Languages:* can learn/decipher ancient languages, assuming there is a manual about to read
 
 *alchemy*
+
 *create incendiary oil*
-*make mechanical/metal based automatons
+
+*make mechanical/metal based automatons*
 
 *Clandestine Tongue (Weird Science):* The obscure language of pseudo-scientists, a strange tongue in which some 
 words may be unintelligible to an ignorant listener, whereas others might be common yet of alternative meaning. 
