@@ -28,7 +28,8 @@ Weird Scientists are masters of forgotten Amazonian, Atlantean and Hyperborean l
 
 *alchemy*
 
-*create incendiary oil*
+*create incendiary oil* Gadgeteers of GA 1-3 can create 1 flash of Greek Fire per week; those  of GA 4-6 2 per week; those of GA 7-9 3 per week; and those of GA 10-12 4 per week. his dependent upon access to proper materials. Each flask costs 30 gp to make.
+s
 
 *make mechanical/metal based automatons*
 
