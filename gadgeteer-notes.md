@@ -21,4 +21,4 @@ Rhialto then wrote up the meat of the class description
 
 Rhialto noticed some redundancies I need to remove.
 
-The file stil has gadgeteer vs weird scientist.
+The file still has gadgeteer vs weird scientist for the name.
