@@ -26,7 +26,7 @@ Weird Scientists are masters of forgotten Amazonian, Atlantean and Hyperborean l
 
 *Read Languages:* can learn/decipher ancient languages, assuming there is a manual about to read
 
-*alchemy*
+*alchemy* Per magician classes
 
 *create incendiary oil* Gadgeteers of GA 1-3 can create 1 flash of Greek Fire per week; those  of GA 4-6 2 per week; those of GA 7-9 3 per week; and those of GA 10-12 4 per week. his dependent upon access to proper materials. Each flask costs 30 gp to make.
 s
@@ -44,7 +44,7 @@ s
 * do you have any idea this is?
 * can you power it up?
 * can you activate it?
-* can you use effecitvely?
+* can you use effectively?
 
 *Laboratory:* At 9th level, a weird scientist who establishes a suitable laboratory will attract a band of followers: 1d12+12 weird science devotees of 0th level (1d4 hp, each with a smattering of nascent weird science abilities) who will serve without pay in exchange for tutelage under their master. The laboratory might be in a city, town, or village. If said laboratory is part of his castle or fortified manor, with a 5- to 10-mile radius of control, the weird scientist also becomes eligible to attract a small body of men-at-arms, 0th-level fighters of 1d8 hp each.Here follows a typical troop:
 
