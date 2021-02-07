@@ -1,6 +1,6 @@
-**Weird Scientist**
+**Gadgeteer/Weird Scientist**
 
-Weird Scientists are masters of forgotten Amazonian, Atlantean and Hyperborean lore, lost technologies, and new weird inventions of their own devising. While most folks fear such things, Weird Scientists are fascinated by such lost lore. Weird Scientists may use any weapons, but typically favor lost artifacts or their own creations. They may wear any mundane armor up to studded leather, unless it is of lost tech, in which case they may wear any armor type of lost Amazonia, Atlantis or Hyperborea.The tinkerer is at heart a scavenger of parts.
+Weird Scientists are masters of forgotten Amazonian, Atlantean and Hyperborean lore, lost technologies, and new weird inventions of their own devising. While most folks fear such things, Weird Scientists are fascinated by such lost lore. Weird Scientists may use any weapons, but typically favor lost artifacts or their own creations. The tinkerer is at heart a scavenger of parts.
 
 **Attribute Requirements:** Dexterity 12, Intelligence 12
 
@@ -22,20 +22,20 @@ Weird Scientists are masters of forgotten Amazonian, Atlantean and Hyperborean l
 
 *Folklore* like the bard but restricted to artefacts and old tech, for lack of a better description
 
-*Item use:* some mechanic to better use items like laser swords, radium pistols, amazon skyships, and other things that are more tech than "magic" in nature.Item repair: mechanize to fix a broken item, or magic otherwise get it working. That scope on the laser rifle that just jammed? Maybe a chance to fix it, or that same rifle ran out of charges they can get an additional charge or two.
 
 *Read Languages:* can learn/decipher ancient languages, assuming there is a manual about to read
 
 *alchemy* Per magician classes
 
-*create incendiary oil* Gadgeteers of GA 1-3 can create 1 flash of Greek Fire per week; those  of GA 4-6 2 per week; those of GA 7-9 3 per week; and those of GA 10-12 4 per week. his dependent upon access to proper materials. Each flask costs 30 gp to make.
-s
+*create incendiary oil* Gadgeteers of GA 1-3 can create 1 flask of Greek Fire per week; those of GA 4-6: 2 flasks per week; those of GA 7-9: 3 per flasks week; and those of GA 10-12: 4 flasks per week. This is dependent upon access to proper materials. Each flask costs 30 gp to make.
 
-*make mechanical/metal based automatons*
+*Make Bronze or Iron Automatons:* Gadgeteers can make Bronze or IRon Automatons with the appropriate Manual of Automation Creation.
 
 *Clandestine Tongue (Weird Science):* The obscure language of pseudo-scientists, a strange tongue in which some words may be unintelligible to an ignorant listener, whereas others might be common yet of alternative meaning. This scientifically opaque tongue is used in conjunction with arcane mathematical formulae. Some call this the tongue of the Anunnaki, a mysterious race predating all known humans of Hyperborea.
 
-*Weird Science Item Use:* Can utilize magic items normally restricted to Magicians, but only if of a weird science origin.
+*Weird Science Item Use:* Can utilize magic items normally restricted to Magicians, but only if of a weird science origin. Also some like laser swords, radium pistols, amazon skyships, and other things that are more tech than "magic" in nature.
+
+*Weird Science Item Repair:* They can potentially repair, recharge, or otherwise get an item working that normally others can't. That scope on the laser rifle that just jammed? Maybe a chance to fix it, or that same rifle ran out of charges they can get an additional charge or two.
 
 *Read Weird Science:* The ability to decipher unintelligible weird science inscriptions or symbols placed on weapons, armor, items, doors, walls, scrolls and other media.
 
