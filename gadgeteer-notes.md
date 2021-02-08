@@ -50,3 +50,35 @@ Every 3 or 4 levels learn an language that will help with old secrets and techno
 Maybe put a mechanic on it sort of like mastery. Base 3:12 to able to decipher a language. At each progression can choose a new language at a base 3:12 or increase the base by 1.
 
 Adding these might necessitate a bump in the XP progression tables.
+
+2021-02-08
+
+gadget ideas
+  
+  1. flashlight
+  2. stun baton
+  3. nightvision goggles
+  4. solar charger
+  5. diamond charger
+  6. rebreather/oxygen concentrater
+  7. xray specs
+  8. protective equipment
+     a. gloves
+     b. helmet
+     c. coverall
+  9. med kit
+  10. boosters
+  11. stun gun
+  12. projectile thrower
+  13. drone
+      a. flying
+      b. rolling
+      c. slithering
+      d. swimming
+  14. radiative warmer
+  15. stuff
+  16. stuff
+  17. stuff
+  18. stuff
+  19. stuff
+  20. stuff
