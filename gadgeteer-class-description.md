@@ -58,9 +58,9 @@ There are two proposed resolution mechanics to succeed at each stage.
 *Laboratory:* At 9th level, a weird scientist who establishes a suitable laboratory will attract a band of followers: 1d12+12 weird science devotees of 0th level (1d4 hp, each with a smattering of nascent weird science abilities) who will serve without pay in exchange for tutelage under their master. The laboratory might be in a city, town, or village. If said laboratory is part of his castle or fortified manor, with a 5- to 10-mile radius of control, the weird scientist also becomes eligible to attract a small body of men-at-arms, 0th-level fighters of 1d8 hp each.Here follows a typical troop:
 
 
-    -**10 shortbowmen** (studded armour, short bows, short swords)
-    -**10 light crossbowmen** (chain mail, small shields, light crossbows, long spears, short swords)
-    -**10 halberdiers / pikemen** (splint armour, halberds or pikes, hand axes)
+    - **10 shortbowmen** (studded armour, short bows, short swords)
+    - **10 light crossbowmen** (chain mail, small shields, light crossbows, long spears, short swords)
+    - **10 halberdiers / pikemen** (splint armour, halberds or pikes, hand axes)
 
 
 Attracted units include one officer, a 2nd-level fighter responsible for the unit and for communication betwixt the weird scientist and his men. If the reputation of the weird scientist is favourable, further troops may be attracted. Men-at-arms receive 10 gp per month for their service, plus 50 gp for the officer. Common inhabitants of the weird scientist’s domain will provide 5 sp in taxes per person per month. Once control and reputation have been established, the weird scientist also will attract 1d2 apprentice weird scientists (0th-level), who will petition him for learning.
