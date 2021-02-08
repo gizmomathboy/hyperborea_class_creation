@@ -23,7 +23,7 @@ Rhialto noticed some redundancies I need to remove.
 
 The file still has gadgeteer vs weird scientist for the name.
 
-2020-02-06
+2021-02-06
 
 Rhialto brought up a good point/idea: reusing existing mechanics. I posited using turn table/combat table.
 I mentioned using the bonus spells as a bonus to rolls. Now I think the language bonus is better and "easier".
@@ -34,3 +34,19 @@ with me. Maybe use the Read Scroll for *Read Weird Science*, but as a thief 4 le
 With some thought, the saving throw idea isn't half bad a mechanic either.
 
 I think the bonus languages modifier is useful in both contexts.
+
+2021-02-07
+
+There are 2 other things rattling in my head still:
+
+a) gadgets acquired by level
+
+Kind of like the runes of a runegraver. So, I just need to think up 16 gadgets that are appropriate and not to overpowered.
+
+b) learn "tech" language
+
+Every 3 or 4 levels learn an language that will help with old secrets and technology: Hyperborean, Atlantean, and Amazonian come to mind. Other races that might be possible: aboleths, crab-men, elder things, fish-men, the Great Race, mi-go, night-gaunts, phoongh, snake-men, spore-men, and tentacular horrors.
+
+Maybe put a mechanic on it sort of like mastery. Base 3:12 to able to decipher a language. At each progression can choose a new language at a base 3:12 or increase the base by 1.
+
+Adding these might necessitate a bump in the XP progression tables.
