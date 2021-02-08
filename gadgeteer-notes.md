@@ -76,9 +76,10 @@ gadget ideas
       c. slithering
       d. swimming
   14. radiative warmer
-  15. stuff
-  16. stuff
-  17. stuff
-  18. stuff
-  19. stuff
-  20. stuff
+  15. damage reduction plates
+  16. carrying harness
+  17. vapor condenser
+  18. magnifier goggles
+  19. gadget helmet
+  20. hearing amplifier
+  21. gadgeteer toolkit
