@@ -1,10 +1,10 @@
 Gadgets to choose at each level. Like runes for runegraver
 
-Level Spell Equivalent : LSE
+Spell Level Equivalent : SLE
 
-1. flashlight 1st/2nd? LSE?
-2. stun baton 3rd LSE?
-3. nightvision goggles 2nd/3rd LSE
+1. flashlight 1st/2nd? SLE?
+2. stun baton 3rd SLE?
+3. nightvision goggles 2nd/3rd SLE
 4. solar charger
    * can recharge other items on a repair item roll
 5. diamond charger
@@ -20,7 +20,7 @@ Level Spell Equivalent : LSE
 9. med kit
 10. boosters
   * stat boosters
-11. stun gun 3rd LSE?
+11. stun gun 3rd SLE?
 12. projectile thrower
   * load metal into it and it shoots it
 13. drone
