@@ -66,15 +66,19 @@ WEIRD SCIENCE
 
 5. Ampule, Ambulatory 
 
+8. Amulet of Tracking : maybe keep?
+
 9. Amulet, Psychotropic 
+
+10. Attachment, Benign : maybe toss?
 
 11. Binoculars, Nightvision 
 
 12. Binoculars, Normal 
 
-13. Book, Decoding 
+13. Book, Decoding : maybe toss, if keep limit to Hellenic languages
 
-14. Book, Ancient Text 
+14. Book, Ancient Text : maybe toss, if keep limit to Hellenic languages
 
 15. Boots, Magnetic 
 
@@ -96,9 +100,9 @@ WEIRD SCIENCE
 
 31. Cord, Unbreakable 
 
-34. Crystal of Recording 
+34. Crystal of Recording : not sure how to use this
 
-36. Eyepiece of Jeil Naruk 
+36. Eyepiece of Jeil Naruk : maybe keep
 
 40. Gloves, Insulated 
 
@@ -112,7 +116,7 @@ WEIRD SCIENCE
 
 49. Kit, Healing
 
-50. Kit, Scientific
+50. Kit, Scientific : not sure how to use
 
 53. Lozenge, Anti-poison
 
@@ -122,11 +126,11 @@ WEIRD SCIENCE
 
 57. Mask, Breathing
 
-58. Mask, Chameleon
+58. Mask, Chameleon : maybe toss
 
 59. Ointment, Burn
 
-60. Pack, Inflatable
+60. Pack, Inflatable : maybe toss
 
 62. Parachute, Pouch
 
@@ -138,15 +142,15 @@ WEIRD SCIENCE
 
 71. Pistol, Wave
 
-72. Poultice, Invisibility
+72. Poultice, Invisibility : maybe toss
 
-74. Projector, Image
+74. Projector, Image : maybe toss
 
-76. Ration, Canned
+76. Ration, Canned : not sure how to use
 
-77. Ration, Concentrated
+77. Ration, Concentrated : not sure how to use
 
-81. Ray, Ninth
+81. Ray, Ninth : convert to device and control mechanism?
 
 85. Ring, Hidden Compartment
 
