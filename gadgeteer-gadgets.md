@@ -2,6 +2,13 @@ Gadgets to choose at each level. Like runes for runegraver
 
 Spell Level Equivalent : SLE
 
+Actually, not quite like a runegraver. Because they are found and not made these will be in "pools" to roll in. Roughly grouped by spell level equivalent. Like something that heals about d8 hp is equivalent to a clw and thus SLE 1.
+
+Level advancement are "unlocks" other pools. Any "unlocked" pool can be rolled against. Duplicate gadgets might be found. There is also a chance to find "nothing".
+
+Thinking of having 6 pools with a similar schedule as runegravers and their runes.
+
+
 1. flashlight 1st/2nd? SLE?
 2. stun baton 3rd SLE?
 3. nightvision goggles 2nd/3rd SLE
