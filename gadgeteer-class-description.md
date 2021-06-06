@@ -10,7 +10,7 @@ Weird Scientists are masters of forgotten Amazonian, Atlantean and Hyperborean l
 
 **Alignment:** Any
 
-**Armor Allowed:** Light
+**Armor Allowed:** Light, Medium
 
 **Shields Allowed:** Small
 
