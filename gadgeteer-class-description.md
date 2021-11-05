@@ -8,6 +8,8 @@ Weird Scientists are masters of forgotten Amazonian, Atlantean and Hyperborean l
 
 **Hit Die Type:** d6
 
+**XP Advancement Table** use thief
+
 **Alignment:** Any
 
 **Armor Allowed:** Light, Medium
@@ -19,6 +21,8 @@ Weird Scientists are masters of forgotten Amazonian, Atlantean and Hyperborean l
 **Saving Throw Modifiers:** Device +2, Avoidance +2
 
 **Class Abilities:**
+
+*Gadget Scrounging* use runegraver run acquisition for when to unlock pools and when to scrounge for gadgets. See the projects tab on github.
 
 *Folklore* like the bard but restricted to artefacts and old tech, for lack of a better description
 
