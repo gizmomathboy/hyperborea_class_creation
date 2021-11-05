@@ -165,7 +165,7 @@ WEIRD SCIENCE
 
 87. Rod, Electric
 
-88. Rod, Spring-Loaded
+88. Rod, Spring-Loaded - This small baton springs out to a 10’ pole when a button is depressed. 1-3: 10' pole only, 4-5 10' pole/quarterstaff 6-7 quarterstaff/climbing handles 8 - quartertaff/10' pole climbing handles
 
 89. Rope, Adhesive
 
